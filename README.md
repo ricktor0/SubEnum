@@ -1,7 +1,6 @@
 # SubEnum 🔍
 
-**SubEnum** is a custom automation script for **subdomain enumeration** and **HTTP status checking**.  
-It combines results from multiple powerful tools, removes duplicates, and checks the status and title of each subdomain.
+**SubEnum** is a custom automation script for **subdomain enumeration** and **HTTP status checking**. It combines results from multiple powerful tools, removes duplicates, and checks the status and title of each subdomain.
 
 ---
 
